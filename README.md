@@ -1,2 +1,2 @@
-# RAG
-All about RAG
+# APP
+It's powerful yet useless.
